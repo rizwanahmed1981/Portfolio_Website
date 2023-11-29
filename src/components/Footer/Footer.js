@@ -9,13 +9,13 @@ const Footer = () => {
     <FooterWrapper>
       <LinkList>
         <LinkColumn>
-          <LinkTitle>Call</LinkTitle>
-          <LinkItem href="tel:8894358978">+91 8894358978</LinkItem>
+          <LinkTitle><em><strong>Call</strong></em></LinkTitle>
+          <LinkItem href="tel:8894358978">+92 3490252559</LinkItem>
         </LinkColumn>
         <LinkColumn>
-          <LinkTitle>Email</LinkTitle>
-          <LinkItem href="mailto:robin.007660@gmail.com">
-            robin.007660@gmail.com
+          <LinkTitle><em><strong>Email</strong></em></LinkTitle>
+          <LinkItem href="mailto:ecom.wala81@gmail.com">
+            ecom.wala81@gmail.com
           </LinkItem>
         </LinkColumn>
       </LinkList>
@@ -24,13 +24,13 @@ const Footer = () => {
           <Slogan>Innovating one project at a time</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://github.com/constgenius" target="_blank">
+          <SocialIcons href="https://github.com/rizwanahmed1981" target="_blank">
             <AiFillGithub size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://google.com" target="_blank">
+          <SocialIcons href="https://www.linkedin.com/in/ahmed-rizwan-808909281" target="_blank">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://www.instagram.com/constgenius/" target="_blank">
+          <SocialIcons href="https://www.instagram.com/Imaginemoree/" target="_blank">
             <AiFillInstagram size="3rem" />
           </SocialIcons>
         </SocialContainer>

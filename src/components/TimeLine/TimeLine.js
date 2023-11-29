@@ -48,7 +48,7 @@ const Timeline = () => {
      <Section id="about">
       <SectionTitle>About Me</SectionTitle> 
       <SectionText>
-      The purpose of constGenius is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
+      "As a skilled frontend and backend web developer, I specialize in creating visually stunning and technically robust online experiences. My passion lies in transforming ideas into interactive solutions, merging design flair with cutting-edge functionality. Committed to excellence, I thrive in professional environments where I can leverage my expertise to bring innovative digital visions to life."
       </SectionText>
        <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

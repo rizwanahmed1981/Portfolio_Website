@@ -17,7 +17,7 @@ export const FooterWrapper = styled.section`
 export const LinkItem = styled.a`
 	font-size: 18px;
 	line-height: 30px;
-	color: rgba(255, 255, 255, 0.75);
+	color: #f4f037;
 	margin-bottom: 16px;
 	transition: .3s ease;
 	position: relative;
@@ -82,10 +82,10 @@ export const CompanyContainer = styled.div`
 
 
 export const Slogan = styled.p`
-	color: rgba(255, 255, 255, 0.5);
+	color: #f4f037;
 	min-width: 280px;
 	letter-spacing: 0.02em;
-	font-size: 18px;
+	font-size: 22px;
 	line-height: 30px;
 	padding: 1rem;
 

@@ -1,6 +1,6 @@
 export const projects = [
   {
-    title: 'Tic Tac Toe',
+    title: 'Tic Tac Toe Game',
     description: "Tic Tac Toe Game: Create an interactive and classic Tic Tac Toe game using HTML, CSS, and JavaScript. Players take turns to place X or O symbols on a 3x3 grid, aiming to form a winning row, column, or diagonal sequence. The game includes user-friendly interface elements and real-time feedback, making it an engaging and enjoyable experience.",
       image: '/images/1.png',
       tags: ['HTML', 'CSS', 'JavaScript'],
@@ -39,7 +39,7 @@ export const projects = [
 
 export const TimeLineData = [
   { year: 2023, text: 'Started my journey', },
-  { year: 2023, text: 'Founded constGenius', },
+  { year: 2023, text: 'Joined PIAIC', },
   { year: 2023, text: 'Shared my projects with the world', },
-  { year: 2023, text: 'Started my own platform soon', },
+  { year: 2023, text: 'Will launch my own platform soon', },
 ];

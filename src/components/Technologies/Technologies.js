@@ -8,7 +8,7 @@ const Technologies = () =>  (
     <SectionDivider divider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a range a technologies in the web development world.
+      I am working with a range a technologies in the web development world.<br/>
       From Back-end To Design
     </SectionText>
     <List>
@@ -20,7 +20,10 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experiece with <br />
-            React.js
+            HTML<br/>
+            CSS<br/>
+            JS<br/>
+            Next.js<br/>
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -32,7 +35,7 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node and Databases
+            Node.js and Databases
           </ListParagraph>
         </ListContainer>
       </ListItem>
